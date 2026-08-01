@@ -1,0 +1,9 @@
+{
+  "name": "kalkulator-premi-mccp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kalkulator Premi MCCP (Manulife Critical Care Protection) dengan integrasi WhatsApp via Fonnte, di-deploy lewat Netlify.",
+  "engines": {
+    "node": ">=18"
+  }
+}
